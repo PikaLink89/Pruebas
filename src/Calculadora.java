@@ -5,7 +5,7 @@ public class Calculadora {
 	
 	public Calculadora(int a, int b) {
 		num1 = a;
-		num2 = b;
+		num2 = c;
 	}
 	
 	public int suma() {
